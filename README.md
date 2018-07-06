@@ -1,6 +1,6 @@
 # Expenses-Tracker
 
-![]()
+![](https://github.com/HNStudio/Expenses-Tracker/blob/master/screenshot.png)
 
 An easy app to manage expenses in multiple accounts, e.g. to keep track of money on a debit card. 
 The simple fact is, by tracking your spending you will be able to stick to a budget and therefore SAVE MONEY, then this app was built just for you!
